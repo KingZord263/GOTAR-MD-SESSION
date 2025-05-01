@@ -8,7 +8,7 @@
 
 <p align="center">
    <a href="https://github.com/KingZord263">
-    <img src="https://i.imgur.com/teQzVR1.jpeg" width="500">
+    <img src="https://files.catbox.moe/6f05ah.jpg" width="500">
    </a>
 </p>
 
